@@ -1,0 +1,9 @@
+rdkit
+PyTDC
+numpy
+pandas
+scikit-learn
+xgboost
+shap
+optuna
+matplotlib
